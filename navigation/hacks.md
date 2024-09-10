@@ -31,7 +31,7 @@ Version control allows tracking changes in code over time. I used **Git** to man
 Put into words the difference between viewing GitHub Pages running on your localhost machine versus running on a deployed server.
 
 - **Localhost**: Running on localhost allows you to view the project only on your own machine, using a URL like `127.0.0.1:4100`. No one else can access this URL.
-- **Deployed Server**: When deployed to GitHub Pages, your project is available online with a public URL, such as `https://imaad08.github.io/studentcsa`. Anyone with the URL can view the site.
+- **Deployed Server**: When deployed to GitHub Pages, your project is available online with a public URL, such as `https://Tanuj253.github.io/studentcsa`. Anyone with the URL can view the site.
 
 ## DNS and GitHub Pages
 

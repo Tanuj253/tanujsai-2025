@@ -14,7 +14,7 @@ menu: nav/pair_programming.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Imaad's Calculator</title>
+  <title>Tanuj's Calculator</title>
   <style>
     button {
       cursor: pointer;
