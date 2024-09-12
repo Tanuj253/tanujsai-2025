@@ -1,0 +1,2 @@
+ERROR:root:Bad data: NaN in [100, 'NaN', 90]
+ERROR:root:Bad data: NaN in [100, 'NaN', 90]
